@@ -5,11 +5,12 @@ npx react-native start --reset-cache
 ```
 ---
 ### step 2 애플리케이션 실행 및 빌드
-```
 #### ios
+```
+
 npx react-native run-ios --simulator="iPhone 16 Pro"
 ```
-```
 #### android
+```
 npx react-native run-android
 ```
